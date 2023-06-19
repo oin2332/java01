@@ -9,7 +9,7 @@ public class Circlemain {
 		pizza.name = "자바피자"; // 피자의 이름 설정
 		System.out.println(pizza.name);
 		double area = pizza.getArea(); // 피자의 면적 알아내기
-		System.out.println(pizza.name + "의 면적은 " + area);
+		System.out.println(pizza.name + "의 면적은! " + area);
 		System.out.println(pizza.getArea());
 		
 		
