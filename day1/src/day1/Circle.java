@@ -1,7 +1,7 @@
 package day1;
 
 public class Circle {
-	
+	//
 	int radius; // 원의 반지름 필드
 	String name; // 원의 이름 필드
 

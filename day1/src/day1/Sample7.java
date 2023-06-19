@@ -12,7 +12,7 @@ public class Sample7 {
 			System.out.println();
 		}
 			
-
+//
 	}
 
 }
